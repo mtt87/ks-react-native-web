@@ -1,0 +1,15 @@
+{
+  "name": "ks-react-native-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "theme.js",
+  "dependencies": {},
+  "devDependencies": {
+    "mdx-deck": "^2.0.5"
+  },
+  "scripts": {
+    "start": "mdx-deck deck.mdx"
+  },
+  "author": "",
+  "license": "ISC"
+}
